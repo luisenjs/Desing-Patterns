@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>Tienda.PatronesFactoryMethod</exec.mainClass>
     </properties>
+    <name>TallerPatrones</name>
 </project>
